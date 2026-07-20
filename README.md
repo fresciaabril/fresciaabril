@@ -25,6 +25,7 @@
 <h3>GitHub Stats</h3>
 <p>
   <a href="https://github.com/fresciaabril">
+    <!-- El parámetro theme se ha cambiado a 'rose' y custom_title a 'My%20Programming%20Languages' -->
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fresciaabril&langs_count=10&theme=rose&hide_border=true&layout=compact&custom_title=My%20Programming%20Languages" alt="My Programming Languages" />
   </a>
 </p>
