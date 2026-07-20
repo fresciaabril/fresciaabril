@@ -29,7 +29,7 @@
   </a>
 </p>
 <p>
-  <a href="https://git.io/streak-stats">
+  <a href="https://github.com/fresciaabril">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=fresciaabril&theme=rose&hide_border=&short_numbers=" alt="GitHub Streak" />
   </a>
 </p>
