@@ -25,13 +25,13 @@
 <h3>GitHub Stats</h3>
 <p>
   <a href="https://github.com/fresciaabril">
-    <!-- El parámetro theme se ha cambiado a 'rose' y custom_title a 'My%20Programming%20Languages' -->
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fresciaabril&langs_count=10&theme=rose&hide_border=true&layout=compact&custom_title=My%20Programming%20Languages" alt="My Programming Languages" />
+    <!-- Se fuerza la actualización de la caché añadiendo un parámetro aleatorio al final (&cache=123) -->
+    <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api/top-langs/?username=fresciaabril&langs_count=10&layout=compact&custom_title=My%20Programming%20Languages&bg_color=f4e4e2&title_color=982c35&text_color=982c35&hide_border=true&cache=123" alt="My Programming Languages" />
   </a>
 </p>
 <p>
   <a href="https://github.com/fresciaabril">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=fresciaabril&theme=rose&hide_border=&short_numbers=" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=fresciaabril&theme=rose&hide_border=true&short_numbers=" alt="GitHub Streak" />
   </a>
 </p>
 
