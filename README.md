@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1> Bienvenido/a <br> Mi nombre es Frescia Lizarraga </h1>
+<h1> Bienvenido/a <br> Soy Frescia Lizarraga </h1>
 
 <p>
   <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" alt="PHP" title="PHP" width="36" height="36" /></a>
